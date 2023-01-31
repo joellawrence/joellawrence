@@ -1,5 +1,5 @@
 - @joellawrence
-- Joel Lawrence, Age 21
+- Joel Lawrence, Age 22
 - Studying @ MacEwan University
 ----------------
 - getting the hang of this...
