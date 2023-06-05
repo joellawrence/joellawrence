@@ -1,6 +1,7 @@
 - @joellawrence
-- Joel Lawrence, Age 22
+- Joel Lawrence, Age 23
 - MacEwan University 2023 Graduate
+- Junior Software Developer at Levven Electronics Ltd.
 ----------------
 As a recent graduate at MacEwan University with a Bachelor of Science in Computer Science, I bring a strong technical foundation and a passion for innovation to the table. With hands-on experience in programming, database management, and more, I am well-equipped to begin tackling technical challenges.
 
